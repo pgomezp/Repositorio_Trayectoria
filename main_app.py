@@ -1,4 +1,3 @@
-Archivos de python
 """
 Taller de Analítica de Datos con IA
 -----------------------------------
